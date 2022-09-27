@@ -1,16 +1,24 @@
 {
-    "name": "2-serlokas",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "dev": "dead-server --port=4002 --host=localhost",
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "Rimantas",
-    "license": "MIT",
-    "devDependencies": {
-        "dead-server": "^1.0.6"
-    }
+  "name": "pamoka",
+  "version": "1.0.0",
+  "description": "html",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=4002 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rimantas",
+  "license": "MIT",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dorenus/pamoka.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dorenus/pamoka/issues"
+  },
+  "homepage": "https://github.com/Dorenus/pamoka#readme"
 }
